@@ -4,22 +4,17 @@ Intro
 O projeto **pnad2013** tem o propósito de facilitar o acesso aos dados
 sobre a população Brasileira publicados pelo
 [IBGE](http://www.ibge.gov.br/home/estatistica/populacao/trabalhoerendimento/pnad2013/microdados.shtm).
-Ao invés de requerer programas como SAS ou
-[R](http://www.r-project.org/), a linguagem
-[Python](http://python.org) e a biblioteca
+Ao invés de requerer programas como SAS ou as linguagens
+como [R](http://www.r-project.org/), utiliza a linguagem [Python](http://python.org) e  a biblioteca
 [Pandas](https://pypi.python.org/pypi/pandas).
 
 Instalação
 ==========
 
-É necessário ter o Python instalado, além disso, é sugerido o
-[virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/) para
-isolamento de ambientes.
-
-Abra o terminal e digite:
+É necessário ter o Python instalado. Abra o terminal e digite:
 
 ```bash
-$ pip install -r requirements.txt
+$ pip install requirements.txt
 ```
 
 Execução
